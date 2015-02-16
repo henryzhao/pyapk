@@ -2,7 +2,6 @@
 *.DS_Store
 *.pyc
 build
-Privacy-preserving
 AverageFill
 tools
 data/dataset#2/rtdata.txt

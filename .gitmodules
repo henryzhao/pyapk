@@ -7,3 +7,6 @@
 [submodule "data"]
 	path = data
 	url = https://github.com/WS-DREAM/Dataset.git
+[submodule "Privacy-preserving"]
+	path = Privacy-preserving
+	url = https://github.com/WS-DREAM/PPCF.git
