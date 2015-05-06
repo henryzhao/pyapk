@@ -67,11 +67,11 @@ Please visit [this page for a summary of evaluation results](http://wsdream.gith
 
 The benchmarks are implemented with a combination of Python and C++. The framework is built on Python for simplicity, and the core functions of each algorithm are written in C++ for efficiency consideration. To achieve so, [Cython](http://cython.org/ "Cython's Web page") (a language to write C/C++ extensions for Python) has been employed to compile the C++ extensions to Python-compatible modules. In our repository, Cython (with version 0.20.1) has been set as a sub-module in the "externals/Cython" directory.
 
->Note: Our code is directly executable on Linux platform. Re-compilation with Cython is required to execute them on Windows platform. 
-
-
 
 ##Usage
+>Note: Our code is directly executable on Linux platform according to the follwing steps. Re-compilation with Cython is required to execute them on Windows platform: See [how to run on Windows](https://github.com/WS-DREAM/WSRec/wiki/How-to-Run-on-Windows).
+
+
 1. Download this code repository:
     
 	Click the following link: [https://github.com/WS-DREAM/WSRec/archive/master.zip](https://github.com/WS-DREAM/WSRec/archive/master.zip),
