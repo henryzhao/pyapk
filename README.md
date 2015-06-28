@@ -2,20 +2,14 @@
 
 This repository maintains a suite of benchmarks of the state-of-the-art QoS prediction approaches for Web service recommendation.
 
-Read more information: [Paper (coming soon)][[Project page](http://wsdream.github.io/WSRec)]
-
-
-##Citation
-
-If you use any benchmark in published research, please kindly \*cite* the following paper. Thanks!
-
-- Jieming Zhu, Pinjia He, Zibin Zheng, and Michael R. Lyu, "Benchmarking and Improving QoS Prediction Approaches for Web Service Recommendation," available at: http://wsdream.github.io/WSRec.
+Come back soon for our paper (in preparison):
+- "Benchmarking and Improving QoS Prediction Approaches for Web Service Recommendation" 
 
 
 ##Related Links
 - Paper list: http://wsdream.github.io/WSRec/paperlist
 
-- QoS datasets: http://wsdream.github.io/dataset
+- QoS datasets: https://github.com/WS-DREAM/Dataset
 
 
 ##Code Archive
@@ -54,8 +48,8 @@ Please visit [this page for a summary of evaluation results](http://wsdream.gith
   - [OPred](https://github.com/WS-DREAM/WSRec/tree/master/Online-prediction/OPred) [Zhang et al., [TSMC'14](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6720144)] \(under testing, coming soon...now available upon request)
 
 - Ranking-based
-  - [GreedyRank](https://github.com/WS-DREAM/WSRec/tree/master/Ranking-based/GreedyRank) [Zheng et al., [SRDS'10](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5623393)] \(now available upon request)
-  - [CloudRank](https://github.com/WS-DREAM/WSRec/tree/master/Ranking-based/CloudRank) [Zheng et al., [SRDS'10](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5623393), [TPDS'13](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6320550)] \(now available upon request)
+  - [GreedyRank](https://github.com/WS-DREAM/WSRec/tree/master/Ranking-based/GreedyRank) [Zheng et al., [SRDS'10](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5623393)] 
+  - [CloudRank](https://github.com/WS-DREAM/WSRec/tree/master/Ranking-based/CloudRank) [Zheng et al., [SRDS'10](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5623393), [TPDS'13](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6320550)] 
 
 
 
@@ -111,12 +105,12 @@ The goal of maintaining this repository is to make it simple to reproduce or mod
 
 >How to contribute page: [https://github.com/WS-DREAM/WSRec/wiki/How-to-contribute](https://github.com/WS-DREAM/WSRec/wiki/How-to-contribute)
 
-Your implementations built on our framework are welcome to be hosted on this repository, or a external link can be directed to your own Github repository. Please feel free to contact us. Any contribution will be appreciated.
+Your implementations built on our framework are welcome to be linked to this repository for broad distribution (via a submodule). Please feel free to contact us. Any contribution will be appreciated.
 
 
 #### Contributors
 A big thanks to WSRec contributors:
-- [Jieming Zhu](http://jiemingzhu.github.io/), The Chinese University of Hong Kong (Project Founder)
+- [Jieming Zhu](http://jiemingzhu.github.io/), The Chinese University of Hong Kong (Project Coordinator)
 - [Zibin Zheng](http://www.zibinzheng.com/), The Chinese University of Hong Kong (Contribute UIPCC)
 - Pinjia He, The Chinese University of Hong Kong (Contribute HMF)
 - [Yuwen Xiong](https://github.com/Orpine), Zhejiang University (Contribute TF, NTF, WSPred, OPred, Biased_MF, SVD++)
