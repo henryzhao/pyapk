@@ -7,7 +7,7 @@ Come back soon for our paper (in preparison):
 
 
 ##Related Links
-- Paper list: http://wsdream.github.io/WSRec/paperlist
+- Paper list: [http://wsdream.github.io/WSRec/paperlist](https://docs.google.com/spreadsheets/d/1adUJF5gf9dFeADSUj7X3vh5_AFX6FCI_mWUntMeH000/pubhtml?gid=0&single=true)
 
 - QoS datasets: https://github.com/WS-DREAM/Dataset
 
