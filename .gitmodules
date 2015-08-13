@@ -1,12 +1,9 @@
-[submodule "externals/Cython"]
-	path = externals/Cython
-	url = https://github.com/cython/cython.git
 [submodule "Online-prediction/AMF"]
 	path = Online-prediction/AMF
-	url = https://github.com/WS-DREAM/AMF_pack
+	url = https://github.com/wsdream/AMF.git
 [submodule "data"]
 	path = data
-	url = https://github.com/WS-DREAM/Dataset.git
+	url = https://github.com/wsdream/dataset.git
 [submodule "Privacy-preserving"]
 	path = Privacy-preserving
-	url = https://github.com/WS-DREAM/PPCF.git
+	url = https://github.com/wsdream/PPCF.git
