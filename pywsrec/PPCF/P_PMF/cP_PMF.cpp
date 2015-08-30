@@ -1,5 +1,5 @@
 /********************************************************
- * P_PMF.cpp
+ * cP_PMF.cpp
  * C++ implements on P_PMF
  * Author: Jamie Zhu <jimzhu@GitHub>
  * Created: 2014/5/6
@@ -9,7 +9,7 @@
 #include <iostream>
 #include <cstring>
 #include <cmath>
-#include "P_PMF.h"
+#include "cP_PMF.h"
 using namespace std;
 
 #define eps 1e-10

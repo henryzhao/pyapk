@@ -1,12 +1,11 @@
 #########################################################
-# core.pyx
+# P_UIPCC.pyx
 # Author: Jamie Zhu <jimzhu@GitHub>
 # Created: 2014/2/6
 # Last updated: 2015/02/11
 #########################################################
 
 import numpy as np
-from utilities import *
 cimport numpy as np # import C-API
 from libcpp cimport bool
 
@@ -14,7 +13,7 @@ from libcpp cimport bool
 #########################################################
 # Make declarations on functions from cpp file
 #
-cdef extern from "UIPCC.h":
+cdef extern from "cP_UIPCC.h":
     void UPCC_core(double *removedData, int numUser, int numService, int topK, 
         double *predData, bool isUserSimilarity)
 #########################################################

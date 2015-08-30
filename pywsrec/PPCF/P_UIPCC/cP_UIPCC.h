@@ -1,5 +1,5 @@
 /********************************************************
- * UIPCC.h: header file of UIPCC.cpp
+ * cP_UIPCC.h
  * Author: Jamie Zhu <jimzhu@GitHub>
  * Created: 2014/4/29
  * Last updated: 2015/02/11

@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: pywsrec
+Version: 1.0
+Summary: pywsrec: A python package to bechmark QoS prediction approaches for Web service recommendation
+Home-page: https://wsdream.github.io
+Author: WS-DREAM
+Author-email: wsdream.maillist@gmail.com
+License: MIT
+Download-URL: https://sourceforge.net/projects/mlpy/
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: POSIX :: BSD
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Requires: numpy (>=1.8.1)
+Requires: scipy (>=0.13.3)

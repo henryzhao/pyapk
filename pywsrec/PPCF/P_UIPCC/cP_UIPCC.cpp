@@ -1,5 +1,5 @@
 /********************************************************
- * UIPCC.cpp: C++ implements on UIPCC
+ * cP_UIPCC.cpp: C++ implements on P_UIPCC
  * Author: Jamie Zhu <jimzhu@GitHub>
  * Created: 2014/4/29
  * Last updated: 2015/02/11
@@ -12,7 +12,7 @@
 #include <utility>
 #include <algorithm> 
 #include <cmath>
-#include "UIPCC.h"
+#include "cP_UIPCC.h"
 using namespace std;
 
 
