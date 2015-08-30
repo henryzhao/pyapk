@@ -36,6 +36,10 @@ This document maintains a list of papers related to the research topic of QoS-Aw
 
 .. [#] [J] "**A Highly Accurate Prediction Algorithm for Unknown Web Service QoS Values**," You Ma, Shangguang Wang, Patrick C.K. Hung, Ching-Hsien Hsu, Qibo Sun, and Fangchun Yang, *IEEE Transactions on Services Computing (TSC)*, accepted, 2015. [Paper][Bibtex]
 
+.. [#] [J] "`Location-Aware and Personalized Collaborative Filtering for Web Service Recommendation <http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7108071>`_," Jianxun Liu, Mingdong Tang, Zibin Zheng, Xiaoqing Liu, and Saixia Lyu, *IEEE Transactions on Services Computing (TSC)*, accepted, 2015. [Bibtex]
+
+.. [#] [J] "`Diversifying Web Service Recommendation Results via Exploring Service Usage History <http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7065242>`_," Guosheng Kang, Mingdong Tang, Jianxun Liu, Xiaoqing Liu, and Buqing Cao, *IEEE Transactions on Services Computing (TSC)*, accepted, 2015. [Bibtex]
+
 .. [#] [J] "**Guest Editorial: Recommendation Techniques for Services Computing and Cloud Computing**," Michael R. Lyu, and Liang-Jie Zhang, *IEEE Transactions on Services Computing (TSC)*, 2015. [Paper][Bibtex]
 
 .. [#] [J] "**Reputation Measurement and Malicious Feedback Rating Prevention in Web Service Recommendation Systems**," Shangguang Wang, *IEEE Transactions on Services Computing (TSC)*, accepted, 2015. [Paper][Bibtex]
@@ -46,11 +50,15 @@ This document maintains a list of papers related to the research topic of QoS-Aw
 
 .. [#] [J] "**Generating Highly Accurate Predictions for Missing QoS Data via Aggregating Nonnegative Latent Factor Models**," Xin Luo, MengChu Zhou, Yunni Xia, Qingsheng Zhu, Ahmed Chiheb Ammari, and Ahmed Alabdulwahab, *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, accepted, 2015. [Paper][Bibtex]
 
+.. [#] [J] "Personalised QoS–based Web Service Recommendation with Service Neighbourhood–enhanced Matrix Factorisation," Jianwei YinRelated information1 School of Computer Science and Technology, Zhejiang University, Hangzhou City, Zhejiang Province, and Yueshen Xu, *International Journal of Web and Grid Services (IJWGS)*, 2015.
+
 .. [#] [J] "**Multimedia Services Quality Prediction based on the Association Mining between Context and QoS Properties**," Li Kuang, Zhifang Liao, Wentao Feng, Haoneng He, and Bei Zhang, *International Journal of Signal Processing*, 2015.
 
 .. [#] [J] "**Efficient Web Service QoS Prediction using Local Neighborhood Matrix Factorization**," Wei Lo, Jianwei Yin, Ying Li, and Zhaohui Wu, *Engineering Applications of Artificial Intelligence*, 2015. 
 
 .. [#] [J] "**Eliminating the Correlations of Quality of Service Criteria in Web Service Selection**," Lianyong Qi, Wanchun Dou, Jiguo Yu, Xiaona Xia, and Xuyun Zhang, *Journal of Computational and Theoretical Nanoscience*, 2015. 
+
+.. [#] [J] "QoS Evaluation for Web Service Recommendation," Ma You, Xin Xin, Wang Shangguang, Li Jinglin, Sun Qibo, and Yang Fangchun, *China Communications*, 2015. 
 
 .. [#] [J] "**Search-based QoS Ranking Prediction for Web Services in Cloud Environments**," Chengying Maoa, Jifu Chen, Dave Towey, Jinfu Chen, Xiaoyuan Xie, *Future Generation Computer Systems*, 2015. 
 
@@ -60,13 +68,29 @@ This document maintains a list of papers related to the research topic of QoS-Aw
 
 .. [#] [J] "**Personalized Manufacturing Service Recommendation using Semantics-based Collaborative Filtering**," Wenyu Zhang, Shanshan Guo, and Shuai Zhang, *Concurrent Engineering: Research and Applications*, 2015. 
 
-.. [#] [J] "**QoS Prediction Algorithm used in Location-aware Hybrid Web Service**," E Haihonga,Tong Junjie, Song Meina, and Song Junde, *The Journal of China Universities of Posts and Telecommunications*, 2015. 
+.. [#] [J] "**QoS Prediction Algorithm used in Location-aware Hybrid Web Service**," Haihonga E,Junjie Tong, Meina Song, and Junde Song, *The Journal of China Universities of Posts and Telecommunications*, 2015. 
+ 
+.. [#] [J] "**A Location-Aware Hybrid Web Service QoS Prediction Algorithm**," Haihonga E,Junjie Tong, Meina Song, and Junde Song, *The Journal of China Universities of Posts and Telecommunications*, 2015.
 
-.. [#] [C] "`A Privacy-Preserving QoS Prediction Framework for Web Service Recommendation <http://arxiv.org/pdf/1502.06084v2.pdf>`_," Jieming Zhu, Pinjia He, Zibin Zheng, and Michael R. Lyu, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2015. [`Code <http://wsdream.github.io/PPCF>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/icws/ZhuHZL15>`_]
+.. [#] [J] "An Enhanced Web Service Recommendation System with Ranking QoS Information," S.Suria, and K.Palanivel, *International Journal of Emerging Trends & Technology in Computer Science (IJETTCS)*, 2015.
+
+.. [#] [J] "**A Survey On Collaborating Techniques And Qos Based Recommendation System**," N. Kannammal, S.Vijayan, and R. Sathishkumar, *ARPN Journal of Engineering and Applied Sciences*, 2015. 
+
+.. [#] [C] "`A Privacy-Preserving QoS Prediction Framework for Web Service Recommendation <http://jiemingzhu.github.io/pub/jmzhu_icws2015.pdf>`_," Jieming Zhu, Pinjia He, Zibin Zheng, and Michael R. Lyu, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2015. [`Code <http://wsdream.github.io/PPCF>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/icws/ZhuHZL15>`_]
+
+.. [#] [C] "`A Collaborative Approach to Predicting Service Price for QoS-Aware Service Selection <http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7195549>`_," Puwei Wang, Anup K. Kalia, and Munindar P. Singh, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2015. [Bibtex]
+
+.. [#] [C] "**A Ranking-oriented Hybrid Approach to QoS-aware Web Service Recommendation**," Mingming Chen, Yutao Ma, Bo Hu, and Liang-Jie Zhang, *in Proc. of IEEE International Conference on Services Computing (SCC)*, 2015. [`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/IEEEscc/ChenMHZ15>`_]
+
+.. [#] [C] "**QoS-Aware Service Recommendation for Multi-tenant SaaS on the Cloud**," Yanchun Wang, Qiang He, and Yun Yang, *in Proc. of IEEE International Conference on Services Computing (SCC)*, 2015. 
 
 .. [#] [C] "`Cloud Service Recommendation: State of the Art and Research Challenges <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7152551>`_," Lantian Guo, Xianrong Zheng, Chen Ding, Dejun Mu, Zhe Li, *in Proc. of IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)*, 2015. [`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/ccgrid/GuoZDML15>`_]
 
+.. [#] [C] "**Comparative Study on Machine Learning Techniques in Predicting the QoS-values for Web-Services Recommendations**," Sunil Kumar, Manish Kumar Pandey, Abhigyan Nath,  Karthikeyan Subbiah, and Manoj Kumar Singh , *in Proc. of International Conference on Computing, Communication & Automation (ICCCA)*, 2015.
+
 .. [#] [C] "**Service Recommendation with Case-based Reasoning**," Pei Yang, Ke Mao, Xianzhong Zhong, and Feng Xu, *in Proc. of IEEE International Conference on Networking, Sensing and Control (ICNSC)*, 2015.
+
+.. [#] [C] "Bayesian Personalized Ranking for Optimized Personalized QoS Ranking," Pranjali M. Patil, and Prof. R.B.Wagh, *in Proc. of International Conference on Computing Communication Control and Automation (ICCUBEA)*, 2015.
 
 .. [#] [C] "**A Hybrid Approach to Web Service Recommendation Based on QoS-Aware Rating and Ranking**," Mingming Chen, and Yutao Ma, *arXiv:1501.04298*, 2015.
 
@@ -84,111 +108,139 @@ This document maintains a list of papers related to the research topic of QoS-Aw
 
 .. [#WangZS14] [J] "`Network-aware QoS prediction for Service Composition Using Geolocation <http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6805645>`_," Xinyu Wang, Jianke Zhu, and Yuanhong Shen, *IEEE Transactions on Services Computing (TSC)*, 2014. (Conference version: [#ShenZWCYZ13]_)
 
-.. [#] "**Instant Recommendation for Web Services Composition**," Liang Chen, Jian Wu, Hengyi Jian, Hongbo Deng, and haohui Wu, *IEEE Transactions on Services Computing (TSC)*, 2014.
+.. [#] [J] "**Instant Recommendation for Web Services Composition**," Liang Chen, Jian Wu, Hengyi Jian, Hongbo Deng, and haohui Wu, *IEEE Transactions on Services Computing (TSC)*, 2014.
 
-.. [#] "**An Online Performance Prediction Framework for Service-Oriented Systems**," Yilei Zhang, Zibin Zheng, Michael R. Lyu, *IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC)*, 2014.
+.. [#] [J] "**An Online Performance Prediction Framework for Service-Oriented Systems**," Yilei Zhang, Zibin Zheng, Michael R. Lyu, *IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC)*, 2014.
 
-.. [#] "**ClubCF: A Clustering-Based Collaborative Filtering Approach for Big Data Application**," Rong Hu, Wanchun Dou, and Jianxun Liu, *IEEE Transactions on Emerging Topics in Computing (TETC)*, accepted, 2014.
+.. [#] [J] "**ClubCF: A Clustering-Based Collaborative Filtering Approach for Big Data Application**," Rong Hu, Wanchun Dou, and Jianxun Liu, *IEEE Transactions on Emerging Topics in Computing (TETC)*, accepted, 2014.
 
-.. [#] "**Recommendation in an Evolving Service Ecosystem Based on Network Prediction**," Keman Huang, Yushun Fan, and Wei Tan, *IEEE Transactions on Automation Science and Engineering (TASE)*, accepted, 2014.
+.. [#] [J] "**Recommendation in an Evolving Service Ecosystem Based on Network Prediction**," Keman Huang, Yushun Fan, and Wei Tan, *IEEE Transactions on Automation Science and Engineering (TASE)*, accepted, 2014.
 
-.. [#] "**CloudRec: A Framework for Personalized Service Recommendation in the Cloud**," Qi Yu, *Journal of Knowledge and Information Systems (KAIS)*, accepted, 2014.
+.. [#] [J] "**CloudRec: A Framework for Personalized Service Recommendation in the Cloud**," Qi Yu, *Journal of Knowledge and Information Systems (KAIS)*, accepted, 2014.
 
-.. [#] "**QoS-aware Service Selection via Collaborative QoS Evaluation**," Qi Yu, *World Wide Web Journal (WWWJ)*, accepted, 2014.
+.. [#] [J] "**QoS-aware Service Selection via Collaborative QoS Evaluation**," Qi Yu, *World Wide Web Journal (WWWJ)*, accepted, 2014.
 
-.. [#] "**Service Recommendation via Rank Minimized Matrix Factorization**," Qi Yu, Zibin Zheng, and Hongbing Wang, *International Journal of Web Service Research (IJWSR)*, accepted, 2014.
+.. [#] [J] "**Service Recommendation via Rank Minimized Matrix Factorization**," Qi Yu, Zibin Zheng, and Hongbing Wang, *International Journal of Web Service Research (IJWSR)*, accepted, 2014.
 
-.. [#] "**Modelling and Exploring Historical Records to Facilitate Service Composition**," Jian Wu, Liang Chen, Yanan Xie, Lichuan Ji, and Zhaohui Wu, *International Journal of Web and Grid Services (IJWGS)*, 2014.
+.. [#] [J] "**Modelling and Exploring Historical Records to Facilitate Service Composition**," Jian Wu, Liang Chen, Yanan Xie, Lichuan Ji, and Zhaohui Wu, *International Journal of Web and Grid Services (IJWGS)*, 2014.
 
-.. [#] "**CSCF: A Mashup Service Recommendation Approach based on Content Similarity and Collaborative Filtering**," Buqing Co, Mingdong Tang, Xing Huang, *International Journal of Grid and Distributed Computing*, 2014.
+.. [#] [J] "**CSCF: A Mashup Service Recommendation Approach based on Content Similarity and Collaborative Filtering**," Buqing Co, Mingdong Tang, Xing Huang, *International Journal of Grid and Distributed Computing*, 2014.
 
-.. [#] "**Topic Model based Collaborative QoS Prediction**," Jian Wu, Lichuan Ji, Tingting Liang, and Liang Chen, *International Journal of Applied Mathematics and Information Sciences*, 2014.
+.. [#] [J] "**Topic Model based Collaborative QoS Prediction**," Jian Wu, Lichuan Ji, Tingting Liang, and Liang Chen, *International Journal of Applied Mathematics and Information Sciences*, 2014.
 
-.. [#] "**Context-Aware Service Ranking in Wireless Sensor Networks**," Wenjia Niu, Jun Lei, Endong Tong, Gang Li, Liang Chang, Zhongzhi Shi, and Song Ci, *Journal of Network and Systems Management*, 2014.
+.. [#] [J] "**Context-Aware Service Ranking in Wireless Sensor Networks**," Wenjia Niu, Jun Lei, Endong Tong, Gang Li, Liang Chang, Zhongzhi Shi, and Song Ci, *Journal of Network and Systems Management*, 2014.
 
-.. [#] "**QoS Prediction for Web Service Compositions using Kernel-based Quantile Estimation with Online Adaptation of the Constant Offset**," Dries Geebelen, Kristof Geebelen, Eddy Truyen, Sam Michiels, Johan A.K. Suykens, Joos Vandewalle, and Wouter Joosen, *International Journal of Information Sciences*, 2014.
+.. [#] [J] "**QoS Prediction for Web Service Compositions using Kernel-based Quantile Estimation with Online Adaptation of the Constant Offset**," Dries Geebelen, Kristof Geebelen, Eddy Truyen, Sam Michiels, Johan A.K. Suykens, Joos Vandewalle, and Wouter Joosen, *International Journal of Information Sciences*, 2014.
 
-.. [#] "**An Improved Time-eﬀectiveness Reliability Prediction Approach of Web Service**," Xiaohui Cui, Guisheng Yin, Qilong Han, and Yuxin Dong, *Journal of Computational Information Systems*, 2014.
+.. [#] [J] "**An Improved Time-eﬀectiveness Reliability Prediction Approach of Web Service**," Xiaohui Cui, Guisheng Yin, Qilong Han, and Yuxin Dong, *Journal of Computational Information Systems*, 2014.
 
-.. [#] "**Trust-Based Personalized Service Recommendation: A Network Perspective**," Shui-Guang Deng, Long-Tao Huang, Jian Wu, and Zhao-Hui Wu, *Journal of Computer Science and Technology*, 2014.
+.. [#] [J] "**Trust-Based Personalized Service Recommendation: A Network Perspective**," Shui-Guang Deng, Long-Tao Huang, Jian Wu, and Zhao-Hui Wu, *Journal of Computer Science and Technology*, 2014.
 
-.. [#] "**Improving the Performance of Web Service Recommenders using Semantic Similarity**," Adán Coello Juan Manuel, Tobar Carlos Miguel, and Yuming Yang, *Journal of Computer Science and Technology*, 2014.
+.. [#] [J] "**Improving the Performance of Web Service Recommenders using Semantic Similarity**," Adán Coello Juan Manuel, Tobar Carlos Miguel, and Yuming Yang, *Journal of Computer Science and Technology*, 2014.
 
-.. [#] "**Multi-user Web Service Selection based on Multi-QoS Prediction**," Shangguang Wang, Ching-Hsien Hsu, Zhongjun Liang, Qibo Sun, and Fangchun Yang, *Information Systems Frontiers*, 2014.
+.. [#] [J] "**Multi-user Web Service Selection based on Multi-QoS Prediction**," Shangguang Wang, Ching-Hsien Hsu, Zhongjun Liang, Qibo Sun, and Fangchun Yang, *Information Systems Frontiers*, 2014.
 
-.. [#] "**Collaborative Personal Profiling for Web Service Ranking and Recommendation**," Wenge Rong, Baolin Peng, Yuanxin Ouyang, Kecheng Liu, and Zhang Xiong, *Information Systems Frontiers*, 2014.
+.. [#] [J] "**Collaborative Personal Profiling for Web Service Ranking and Recommendation**," Wenge Rong, Baolin Peng, Yuanxin Ouyang, Kecheng Liu, and Zhang Xiong, *Information Systems Frontiers*, 2014.
 
-.. [#] "**On Bootstrapping Web Service Recommendation**," Qi Yu, *Web Services Foundations*, 2014.
+.. [#] [J] "**On Bootstrapping Web Service Recommendation**," Qi Yu, *Web Services Foundations*, 2014.
 
-.. [#] "**QoS-Aware Web Service Recommendation via Collaborative Filtering**," Xi Chen, Zibin Zheng, and Michael R. Lyu, *Web Services Foundations*, 2014.
+.. [#] [J] "**QoS-Aware Web Service Recommendation via Collaborative Filtering**," Xi Chen, Zibin Zheng, and Michael R. Lyu, *Web Services Foundations*, 2014.
 
-.. [#] "**A Trustworthy QoS-based Collaborative Filtering Approach for Web Service Discovery**," Szu-Yin Lin, Chin-Hui Lai, Chih-Heng Wu, and Chi-Chun Lo, *Journal of Systems and Software (JSS)*, 2014.
+.. [#] [J] "**A Trustworthy QoS-based Collaborative Filtering Approach for Web Service Discovery**," Szu-Yin Lin, Chin-Hui Lai, Chih-Heng Wu, and Chi-Chun Lo, *Journal of Systems and Software (JSS)*, 2014.
 
-.. [#] "**A Feedback-Corrected Collaborative Filtering for Personalized Real-world Service Recommendation**," Shuai Zhao, Yang Zhang, Bo Cheng, and Jun-liang Chen, *International Journal of Computers Communications & Control (IJCCC)*, 2014.
+.. [#] [J] "**A Feedback-Corrected Collaborative Filtering for Personalized Real-world Service Recommendation**," Shuai Zhao, Yang Zhang, Bo Cheng, and Jun-liang Chen, *International Journal of Computers Communications & Control (IJCCC)*, 2014.
 
-.. [#] "**The QoS Prediction of Web Service with Location Information Ensemble**," Fei Peng, Xuewen Zeng, Haojiang Deng, and Lei Liu, *Journal of Software*, 2014.
+.. [#] [J] "**The QoS Prediction of Web Service with Location Information Ensemble**," Fei Peng, Xuewen Zeng, Haojiang Deng, and Lei Liu, *Journal of Software*, 2014.
 
-.. [#] "**Reliable Web Service Composition based on QoS Dynamic Prediction**," Zhi Zhong Liu, Zong Pu Jia, Xiao Xue, and Ji Yu An, *Soft Computing*, 2014.
+.. [#] [J] "**Reliable Web Service Composition based on QoS Dynamic Prediction**," Zhi Zhong Liu, Zong Pu Jia, Xiao Xue, and Ji Yu An, *Soft Computing*, 2014.
 
-.. [#] "**Achieve Better Ranking Accuracy Using CloudRank Framework for Cloud Services**," M. Subha, and K. Saravanan, *International Journal of Engineering Trends and Technology (IJETT)*, 2014.
+.. [#] [J] "**Achieve Better Ranking Accuracy Using CloudRank Framework for Cloud Services**," M. Subha, and K. Saravanan, *International Journal of Engineering Trends and Technology (IJETT)*, 2014.
 
-.. [#] "**Domain-aware Reputable Service Recommendation in Heterogeneous Manufacturing Service Ecosystem**," Yushun Fan, Keman Huang, Wei Tan, Yang Zhong, Jinhui Yao, Nepal Surya, and Shiping Chen, *International Journal of Computer Integrated Manufacturing*, 2014.
+.. [#] [J] "**Domain-aware Reputable Service Recommendation in Heterogeneous Manufacturing Service Ecosystem**," Yushun Fan, Keman Huang, Wei Tan, Yang Zhong, Jinhui Yao, Nepal Surya, and Shiping Chen, *International Journal of Computer Integrated Manufacturing*, 2014.
 
-.. [#] "**Ranking Web Services Using Web Service Popularity Score**," Selwa Elfirdoussi, Zahi Jarir, and Mohamed Quafafou, *International Journal of Information Technology and Web Engineering*, 2014.
+.. [#] [J] "**Ranking Web Services Using Web Service Popularity Score**," Selwa Elfirdoussi, Zahi Jarir, and Mohamed Quafafou, *International Journal of Information Technology and Web Engineering*, 2014.
 
-.. [#] "**Predicting Web Service QoS via Combining Matrix Factorization with Network Location**," Li Zhou, Zhibo Song, Suichu Zhai, Tan Xiao, and Yuyu Yin, *International Journal of U- & E-Service, Science & Technology (IJUNESST)*, 2014.
+.. [#] [J] "**Predicting Web Service QoS via Combining Matrix Factorization with Network Location**," Li Zhou, Zhibo Song, Suichu Zhai, Tan Xiao, and Yuyu Yin, *International Journal of U- & E-Service, Science & Technology (IJUNESST)*, 2014.
 
-.. [#] "`Temporal QoS-Aware Web Service Recommendation via Non-negative Tensor Factorization <http://wwwconference.org/proceedings/www2014/proceedings/p585.pdf>`_," Wancai Zhang, Hailong Sun, Xudong Liu, and Xiaohui Guo, *in Proc. of International World Wide Web Conference (WWW)*, 2014. [`Code <https://github.com/wsdream/WSRec/tree/master/Time-aware/NTF>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/www/ZhangSLG14>`_][`Citation <https://scholar.google.com/scholar?cites=7449262182643739091>`_]
+.. [#] [J] "Clustering and Recommendation for Semantic Web Service in Time Series," Yu Lei, Wang Zhili, Meng Luoming, and Qiu Xuesong, *KSII Transactions on Internet and Information Systems (TIIS)*, 2014.
 
-.. [#] "`Towards Online, Accurate, and Scalable QoS Prediction for Runtime Service Adaptation <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6888908>`_," Jieming Zhu, Pinjia He, Zibin Zheng, and Michael R. Lyu, *in Proc. of IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2014. [`Code <http://wsdream.github.io/AMF>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/icdcs/ZhuHZL14>`_]
+.. [#] [J] "**A Survey on Web Service Mining by Collaborative Filtering and QoS**," S. Urmela, K. Suresh Joseph, and K. Vaitheki, *International Journal of Recent Development in Engineering and Technology*, 2014.
 
-.. [#] "**Time-Aware Service Recommendation for Mashup Creation in an Evolving Service Ecosystem**," Yang Zhong, Yushun Fan, Keman Huang, Wei Tan, and Jia Zhang, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
+.. [#] [J] "A Dynamical Reliability Prediction Algorithm for Composite Service," Chunli Xie, and Jianguo Ren, *Mathematical Problems in Engineering*, 2014.
 
-.. [#] "**A Time-Aware and Data Sparsity Tolerant Approach for Web Service Recommendation**," Yan Hu, Qimin Peng, and Xiaohui Hu, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
+.. [#] [C] "`Temporal QoS-Aware Web Service Recommendation via Non-negative Tensor Factorization <http://wwwconference.org/proceedings/www2014/proceedings/p585.pdf>`_," Wancai Zhang, Hailong Sun, Xudong Liu, and Xiaohui Guo, *in Proc. of International World Wide Web Conference (WWW)*, 2014. [`Code <https://github.com/wsdream/WSRec/tree/master/Time-aware/NTF>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/www/ZhangSLG14>`_][`Citation <https://scholar.google.com/scholar?cites=7449262182643739091>`_]
 
-.. [#] "**Incorporating Invocation Time in Predicting Web Service QoS via Triadic Factorization**," Wancai Zhang, Hailong Sun, Xudong Liu, and Xiaohui Guo, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
+.. [#] [C] "`Towards Online, Accurate, and Scalable QoS Prediction for Runtime Service Adaptation <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6888908>`_," Jieming Zhu, Pinjia He, Zibin Zheng, and Michael R. Lyu, *in Proc. of IEEE International Conference on Distributed Computing Systems (ICDCS)*, 2014. [`Code <http://wsdream.github.io/AMF>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/icdcs/ZhuHZL14>`_]
 
-.. [#] "**Time-Aware Collaborative Filtering for QoS-Based Service Recommendation**," Chengyuan Yu, and Linpeng Huang, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
+.. [#] [C] "**Time-Aware Service Recommendation for Mashup Creation in an Evolving Service Ecosystem**," Yang Zhong, Yushun Fan, Keman Huang, Wei Tan, and Jia Zhang, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
 
-.. [#] "**Time-Aware Web Service Recommendations Using Implicit Feedback**," Gang Tian, Jian Wang, Keqing He, Patrick C. K. Hung, and Chengai Sun, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
+.. [#] [C] "**A Time-Aware and Data Sparsity Tolerant Approach for Web Service Recommendation**," Yan Hu, Qimin Peng, and Xiaohui Hu, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
 
-.. [#] "**Web Service Recommendation Based on Watchlist via Temporal and Tag Preference Fusion**," Xiuwei Zhang, Keqing He, Jian Wang, Chong Wang, Gang Tian, and Jianxiao Liu, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
+.. [#] [C] "**Incorporating Invocation Time in Predicting Web Service QoS via Triadic Factorization**," Wancai Zhang, Hailong Sun, Xudong Liu, and Xiaohui Guo, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
 
-.. [#] "**A Novel Approach for API Recommendation in Mashup Development**," Chune Li, Richong Zhang, Jinpeng Huai, and Hailong Sun, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
+.. [#] [C] "**Time-Aware Collaborative Filtering for QoS-Based Service Recommendation**," Chengyuan Yu, and Linpeng Huang, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
 
-.. [#] "`Location-based Hierarchical Matrix Factorization for Web Service Recommendation <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6928911>`_," Pinjia He, Jieming Zhu, Zibin Zheng, Jianlong Xu, and Michael R. Lyu, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014. [`Code <https://github.com/wsdream/WSRec/tree/master/Location-aware/HMF>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/icws/HeZZXL14>`_]
+.. [#] [C] "**Time-Aware Web Service Recommendations Using Implicit Feedback**," Gang Tian, Jian Wang, Keqing He, Patrick C. K. Hung, and Chengai Sun, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
 
-.. [#] "**Combining Global and Local Trust for Service Recommendation**," Mingdong Tang, Yu Xu, Jianxun Liu, Zibin Zheng, and Xiaoqing Liu, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
+.. [#] [C] "**Web Service Recommendation Based on Watchlist via Temporal and Tag Preference Fusion**," Xiuwei Zhang, Keqing He, Jian Wang, Chong Wang, Gang Tian, and Jianxiao Liu, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
 
-.. [#] "**Performance Functions for QoS Prediction in Web Service Composites**," Florian Volk, Johanna Sokoli, and Max Mühlhäuser, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
+.. [#] [C] "**A Novel Approach for API Recommendation in Mashup Development**," Chune Li, Richong Zhang, Jinpeng Huai, and Hailong Sun, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
 
-.. [#] "**Collaborative Web Service QoS Prediction on Unbalanced Data Distribution**," Wei Xiong, Bing Li, Lulu He, Mingming Chen, and Jun Chen, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
+.. [#] [C] "`Location-based Hierarchical Matrix Factorization for Web Service Recommendation <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6928911>`_," Pinjia He, Jieming Zhu, Zibin Zheng, Jianlong Xu, and Michael R. Lyu, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014. [`Code <https://github.com/wsdream/WSRec/tree/master/Location-aware/HMF>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/icws/HeZZXL14>`_]
 
-.. [#] "`Personalized QoS Prediction for Web Services using Latent Factor Models <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6930523>`_," Dongjin Yu, Yu Liu, Yueshen Xu, and Yuyu Yin, *in Proc. of IEEE International Conference on Services Computing (SCC)*, 2014. [`Code <https://github.com/wsdream/WSRec/tree/master/LN_LFM>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/IEEEscc/YuLXY14>`_]
+.. [#] [C] "**Combining Global and Local Trust for Service Recommendation**," Mingdong Tang, Yu Xu, Jianxun Liu, Zibin Zheng, and Xiaoqing Liu, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
 
-.. [#] "**Quality of Web Service Prediction by Collective Matrix Factorization**," Richong Zhang, Chune Li, Hailong Sun, Yanghao Wang, and Jinpeng Huai, *in Proc. of IEEE International Conference on Services Computing (SCC)*, 2014.
+.. [#] [C] "**Performance Functions for QoS Prediction in Web Service Composites**," Florian Volk, Johanna Sokoli, and Max Mühlhäuser, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
 
-.. [#] "**A Web service QoS Prediction Approach based on Time-and Location-aware Collaborative Filtering**," Chengyuan Yu, and Linpeng Huang, *in Proc. of IEEE International Conference on Service-Oriented Computing and Applications (SOCA)*, 2014.
+.. [#] [C] "**Collaborative Web Service QoS Prediction on Unbalanced Data Distribution**," Wei Xiong, Bing Li, Lulu He, Mingming Chen, and Jun Chen, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
 
-.. [#] "**Reliability Prediction for Service Oriented System via Matrix Factorization in a Collaborative Way**," Yueshen Xu, Jianwei Yin, Zizheng Wu, Dongqing He, and Yan Tan, *in Proc. of IEEE International Conference on Service-Oriented Computing and Applications (SOCA)*, 2014.
+.. [#] [C] "`Personalized QoS Prediction for Web Services using Latent Factor Models <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6930523>`_," Dongjin Yu, Yu Liu, Yueshen Xu, and Yuyu Yin, *in Proc. of IEEE International Conference on Services Computing (SCC)*, 2014. [`Code <https://github.com/wsdream/WSRec/tree/master/LN_LFM>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/IEEEscc/YuLXY14>`_]
 
-.. [#] "**Predicting Web Service QoS via Matrix-factorization-based Collaborative Filtering under Non-negativity Constraint**," Xin Luo, MengChu Zhou, Yunni Xia, and Qingsheng Zhu, *in Proc. of Wireless and Optical Communication Conference (WOCC)*, 2014.
+.. [#] [C] "**A Novel Online Reliability Prediction Approach for Service-Oriented Systems**," Hongbing Wang, Lei Wang, Qi Yu, and Zibin Zheng, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2014.
 
-.. [#] "**Web Service Recommendation using Optimized Iterative Collaborative Filtering**," Wang Binbin, Guo Jie, Zhou Zuojian, and Pan Jingui, *in Proc. of International Conference on Computer Science and Service System (CSSS)*, 2014.
+.. [#] [C] "**Quality of Web Service Prediction by Collective Matrix Factorization**," Richong Zhang, Chune Li, Hailong Sun, Yanghao Wang, and Jinpeng Huai, *in Proc. of IEEE International Conference on Services Computing (SCC)*, 2014.
 
-.. [#] "**A Hierarchical Matrix Factorization Approach for Location-Based Web Service QoS Prediction**," Pinjia He, Jieming Zhu, Jianlong Xu, and Michael R. Lyu, *in Proc. of IEEE International Symposium on Service Oriented System Engineering Workshops (SOSEW)*, 2014.
+.. [#] [C] "**Using Recommender Systems to Assist in Intelligent Service Composition**," Liwei Liu, César A. Marín, and Nikolay Mehandjiev, *in Proc. of IEEE International Conference on Services Computing (SCC)*, 2014.
 
-.. [#] "**A Novel Web Service Quality Prediction Framework Based on F-ELM**," Ying Yin, Yuhai Zhao, Gang Sheng, Bin Zhang, and Guoren Wang, *in Proc. of ELM*, 2014.
+.. [#] [C] "**A Web service QoS Prediction Approach based on Time-and Location-aware Collaborative Filtering**," Chengyuan Yu, and Linpeng Huang, *in Proc. of IEEE International Conference on Service-Oriented Computing and Applications (SOCA)*, 2014.
 
-.. [#] "**A Data-centric and Machine based Approach towards Fixing the Cold Start Problem in Web Service Recommendation**," Zibin Zheng, Xinmiao Wu, Yilei Zhang, Michael R. Lyu, and Jianmin Wang, *in Proc. of IEEE Students' Conference on Electrical, Electronics and Computer Science (SCEECS)*, 2014.
+.. [#] [C] "**Reliability Prediction for Service Oriented System via Matrix Factorization in a Collaborative Way**," Yueshen Xu, Jianwei Yin, Zizheng Wu, Dongqing He, and Yan Tan, *in Proc. of IEEE International Conference on Service-Oriented Computing and Applications (SOCA)*, 2014.
 
-.. [#] "**Online Optimization of Collaborative Web Service QoS Prediction Based on Approximate Dynamic Programming**," Xiong Luo, Hao Luo, and Xiaohui Chang, *in Proc. of International Conference on Identification, Information and Knowledge in the Internet of Things (IIKI)*, 2014.
+.. [#] [C] "A Web Service QoS Prediction Approach based on Time- and Location-aware Collaborative Filtering," Chengyuan Yu, and Linpeng Huang, *in Proc. of IEEE International Conference on Service-Oriented Computing and Applications (SOCA)*, 2014.
 
-.. [#] "**An Effective Automatic Update Approach for Web Service Recommender Systems Based on Feedforward-Feedback Control Theory**," Yan Hu, Qimin Peng, and Xiaohui Hu, *in Proc. of International Conference on Multisensor Fusion and Information Integration for Intelligent Systems (MFI)*, 2014.
+.. [#] [C] "An Incremental Tensor Factorization Approach for Web Service Recommendation," Wancai Zhang, Hailong Sun, Xudong Liu, and Xiaohui Guo, *in Proc. of IEEE International Conference on Data Mining Workshop (ICDMW)*, 2014.
 
-.. [#] "**Cloud Service Recommendation based on Trust Measurement Using Ternary Interval Numbers**," Hua Maa, and Zhigang Hu, *in Proc. of International Conference on Smart Computing (SMARTCOMP)*, 2014.
+.. [#] [C] "A Time-Aware QoS Prediction Approach to Web Service Recommendation," Xuejie Zhang, Zhijian Wang, Weijian Zhang, and Fang Yang, *in Proc. of  International Conference on Computer Engineering and Networks (CENet)*, 2014.
 
-.. [#] "**Recommendation for Web Services with Domain Specific Context Awareness**," Banage T. G. s. Kumara, Incheon Paik, Koswatte R.C Koswatte, and Wuhui Chen, *in Proc. of IEEE Symposium on Computational Intelligence and Data Mining (CIDM)*, 2014.
+.. [#] [C] "A Novel Approach to Trust-Aware Service Recommendation," Guoqiang Li, Lejian Liao, Dandan Song, Zhenling Zhang, and Jingang Wang, *in Proc. of  International Conference on Computer Engineering and Networks (CENet)*, 2014.
+
+.. [#] [C] "**A Hierarchical Matrix Factorization Approach for Location-Based Web Service QoS Prediction**," Pinjia He, Jieming Zhu, Jianlong Xu, and Michael R. Lyu, *in Proc. of IEEE International Symposium on Service Oriented System Engineering Workshops (SOSEW)*, 2014.
+
+.. [#] [C] "**Predicting Web Service QoS via Matrix-factorization-based Collaborative Filtering under Non-negativity Constraint**," Xin Luo, MengChu Zhou, Yunni Xia, and Qingsheng Zhu, *in Proc. of Wireless and Optical Communication Conference (WOCC)*, 2014.
+
+.. [#] [C] "**Web Service Recommendation using Optimized Iterative Collaborative Filtering**," Wang Binbin, Guo Jie, Zhou Zuojian, and Pan Jingui, *in Proc. of International Conference on Computer Science and Service System (CSSS)*, 2014.
+
+.. [#] [C] "Service Reliability Prediction Method for Service-Oriented Multi-agent System," Kwangkyu Lee, Okjoo Choi, and Jongmoon Baik, *in Proc. of IEEE International Conference on Computational Science and Engineering (CSE)*, 2014.
+
+.. [#] [C] "**A Novel Web Service Quality Prediction Framework Based on F-ELM**," Ying Yin, Yuhai Zhao, Gang Sheng, Bin Zhang, and Guoren Wang, *in Proc. of ELM*, 2014.
+
+.. [#] [C] "**Fusion of Pearson Similarity and Slope One Methods for QoS Prediction for Web Services**," G. Vadivelou, and E. Ilavarasan, *in Proc. of International Conference on Contemporary Computing and Informatics (IC3I)*, 2014.
+
+.. [#] [C] "**Survey on Recommendation and Visualization Techniques for QOS-aware Web Services**," J.C. Rosaline Christi, and K.Premkumar, *in Proc. of International Conference on Information Communication and Embedded Systems (ICICES)*, 2014.
+
+.. [#] [C] "**A Data-centric and Machine based Approach towards Fixing the Cold Start Problem in Web Service Recommendation**," Zibin Zheng, Xinmiao Wu, Yilei Zhang, Michael R. Lyu, and Jianmin Wang, *in Proc. of IEEE Students' Conference on Electrical, Electronics and Computer Science (SCEECS)*, 2014.
+
+.. [#] [C] "**Online Optimization of Collaborative Web Service QoS Prediction Based on Approximate Dynamic Programming**," Xiong Luo, Hao Luo, and Xiaohui Chang, *in Proc. of International Conference on Identification, Information and Knowledge in the Internet of Things (IIKI)*, 2014.
+
+.. [#] [C] "**An Effective Automatic Update Approach for Web Service Recommender Systems Based on Feedforward-Feedback Control Theory**," Yan Hu, Qimin Peng, and Xiaohui Hu, *in Proc. of International Conference on Multisensor Fusion and Information Integration for Intelligent Systems (MFI)*, 2014.
+
+.. [#] [C] "**Cloud Service Recommendation based on Trust Measurement Using Ternary Interval Numbers**," Hua Maa, and Zhigang Hu, *in Proc. of International Conference on Smart Computing (SMARTCOMP)*, 2014.
+
+.. [#] [C] "**Recommendation for Web Services with Domain Specific Context Awareness**," Banage T. G. s. Kumara, Incheon Paik, Koswatte R.C Koswatte, and Wuhui Chen, *in Proc. of IEEE Symposium on Computational Intelligence and Data Mining (CIDM)*, 2014.
+
+.. [#] [C] "Web Service Recommendation via Exploiting Temporal QoS Information," Chao Zhou, Wancai Zhang, and Bo Li, *in Proc. of International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)*, 2014.
+
+.. [#] [C] "Big Data Analytics for QoS Prediction Through Probabilistic Model Checking," Giuseppe Cicotti, Luigi Coppolino, Salvatore D'Antonio, Luigi Romano, *arXiv:1405.0327*, 2014.
 
 |
 .. _2013: 
@@ -214,11 +266,17 @@ This document maintains a list of papers related to the research topic of QoS-Aw
 
 .. [#] [J] "`Predicting Quality of Service for Selection by Neighborhood-Based Collaborative Filtering <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6301755>`_," Jian Wu, Liang Chen, Yipeng Feng, Zibin Zheng, Meng Chu Zhou, and Zhaohui Wu, *IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC)*, 2013. [`Bibtex <http://dblp.uni-trier.de/rec/bibtex/journals/tsmc/WuCFZZW13>`_]
 
+.. [#] [J] "**Semantic Content-based Recommendation of Software Services using Context**," Liwei Liu, Freddy Lecue, and Nikolay Mehandjiev, *ACM Transactions on the Web (TWEB)*, 2013. 
+
 .. [#] [J] "**A Social-Aware Service Recommendation Approach for Mashup Creation**," Jian Cao, Wenxing Xu, Liang Hu, Jie Wang, and Minglu Li, *International Journal of Web Services Research (IJWSR)*, 2013. 
 
 .. [#] [J] "**Combining Social Network and Collaborative Filtering for Personalised Manufacturing Service Recommendation**," W.Y. Zhang, S. Zhang, Y.G. Chen, and X.W. Pan, *International Journal of Web Services Research (IJWSR)*, 2013. 
 
 .. [#] [J] "**Mashup Service Recommendation based on Usage History and Service Network**," Buqing Cao, Jianxun Liu, Mingdong Tang, Zibin Zheng, and Guangrong Wang, *International Journal of Web Service Research (IJWSR)*, 2013.
+
+.. [#] [J] "A Memory-based Collaborative Filtering Algorithm for Recommending Semantic Web Services," J.M.A. Coello, Y. Yuming, and C.M. Tobar, *IEEE Latin America Transactions (LAT)*, 2013.
+
+.. [#] [J] "**An Approach for Measuring Quality of Web Service**," Yan Gong, and Lin Huang, *International Journal of Software Engineering and Its Applications*, 2013. 
 
 .. [#] [J] "**QoS Prediction for Web Services Based on Similarity-Aware Slope One Collaborative Filtering**," Chengying Mao, and Jifu Chen, *Informatica*, 2013. 
 
@@ -235,6 +293,10 @@ This document maintains a list of papers related to the research topic of QoS-Aw
 .. [#] [J] "**Towards User-side QoS Measurement for World-Wide Web Services**," Zhao Yao, and He Pei, *Journal of Convergence Information Technology*, 2013.
 
 .. [#] [J] "**QoS-Prediction Cloud Service Recommendation by Collaborative Filtering in Cloud Manufacturing Platform**," Gongxun Cheng, Lilan Liu, Huahuan Lei, Zhiqi Lin, and Manping Li, *Advances in Information Sciences and Service Sciences*, 2013.
+
+.. [#] [J] "A Survey on Recommender Systems based on Collaborative Filtering Technique," Atisha Sachan, and Vineet Richariya, *International Journal of Innovation in Engineering and Technology (IJIET)*, 2013.
+
+.. [#] [J] "Utility and Collaborative Filtering-Based Evaluation Method," Xiaolong Zhu, Weidong Zhu, and Shuai Ding, *International Journal of u- and e- Service, Science and Technology*, 2013.
 
 .. [#] [J] "**A Collaborative QoS-Aware Service Evaluation Method for Service Selection**," Cong Gao, and Jianfeng Ma, *Journal of Networks*, 2013.
 
@@ -278,6 +340,8 @@ This document maintains a list of papers related to the research topic of QoS-Aw
 
 .. [#] [C] "**Personalized Quality Prediction for Dynamic Service Management Based on Invocation Patterns**," Li Zhang, Bin Zhang, Claus Pahl, Lei Xu, and Zhiliang Zhu, *in Proc. of International Conference on Service-Oriented Computing (ICSOC)*, 2013.
 
+.. [#] [C] "Online Reliability Time Series Prediction for Service-Oriented System of Systems," Lei Wang, Hongbing Wang, Qi Yu, Haixia Sun, and Athman Bouguettaya, *in Proc. of International Conference on Service-Oriented Computing (ICSOC)*, 2013.
+
 .. [#] [C] "**Collaborative QoS Prediction via Feedback-based Trust Model**," Liang Chen, Yipeng Feng, and Jian Wu, *in Proc. of IEEE International Conference on Service-Oriented Computing and Applications (SOCA)*, 2013.
 
 .. [#] [C] "**Collaborative QoS Prediction via Matrix Factorization and Topic Model**," Tingting Liang, Lichuan Ji, Liang Chen, Jian Wu, and Zhaohui Wu, *in Proc. of IEEE International Conference on Service-Oriented Computing and Applications (SOCA)*, 2013.
@@ -306,7 +370,13 @@ This document maintains a list of papers related to the research topic of QoS-Aw
 
 .. [#] [C] "**A Clustering-Based QoS Prediction Approach for Web Service Selection**," Xuejie Zhang, Zhijian Wang, Xin Lv, and Rongzhi Qi, *in Proc. of International Conference on Information Science and Cloud Computing Companion (ISCC-C)*, 2013. 
 
+.. [#] [C] "On the Best Adaptive Model for Web Services Response Time Prediction," Razvan-Daniel ALBU, and Ioan FELEA, *in Proc. of International Conference on Systems, Signals and Image Processing (IWSSIP)*, 2013. 
+
+.. [#] [C] "Multi-QoS Effective Prediction in Web Service Selection," Zhongjun Liang, Hua Zou, Jing Guo, Fangchun Yang, and Rongheng Lin, *in Proc. of Asia-Pacific Web Conference on Web Technologies and Applications (APWeb)*, 2013. 
+
 .. [#] [C] "**Web Service QoS Prediction under Sparse Data via Local Link Prediction**," Junjie Tong, Haihong E, Meina Song, Junde Song, and Yanfei Li, *in Proc. of IEEE International Conference on High Performance Computing and Communications & IEEE International Conference on Embedded and Ubiquitous Computing (HPCC_EUC)*, 2013. 
+
+.. [#] [C] "Research on a Kind of High Efficiency Cloud Service Recommendation Algorithm," Ran Jin, Chunhai Kou, Ruijuan Liu, Yefeng Li, and Ran Jin, *in Proc. of International Conference on Cloud Computing and Big Data (CloudCom-Asia)*, 2013. 
 
 .. [#] [C] "**Gaussian Process Regression as a Predictive Model for Quality-of-Service in Web Service Systems**," Jakub M. Tomczak, Jerzy Swiatek, and Krzysztof Latawiec, *arXiv:1207.6910v2*, 2013. 
 
@@ -331,6 +401,8 @@ This document maintains a list of papers related to the research topic of QoS-Aw
 .. [#] [J] "**A Novel Prediction Approach for Trustworthy QoS of Web Services**," Qian Tao, Hui-you Chang, Chun-qin Gu, and Yang Yi, *Expert Systems with Applications*, 2012. 
 
 .. [#] [J] "**QoS Prediction of Web Services on Collaborative Filtering**," Qi Xie, Kaigui Wu, Changze Wu, and Jie Xu, *Information, International Information Institute (Tokyo)*, 2012.
+
+.. [#] [C] "`An Automated Approach to Forecasting QoS Attributes based on Linear and Non-linear Time Series Modeling <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6494913>`_," Ayman Amin, Lars Grunske, and Alan Colman, *in Proc. of IEEE/ACM International Conference on Automated Software Engineering (ASE)*, 2012. [`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/kbse/AminGC12>`_]
 
 .. [#] [C] "`Location-Aware Collaborative Filtering for QoS-Based Service Recommendation <http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6257808>`_," Mingdong Tang, Yechun Jiang, Jianxun Liu, and Xiaoqing Liu, *in Proc. of IEEE International Conference on Web Services (ICWS)*, 2012. [`Code <https://github.com/wsdream/WSRec/tree/master/Location-aware/LACF>`_][`Bibtex <http://dblp.uni-trier.de/rec/bibtex/conf/icws/TangJLL12>`_][`Citation <https://scholar.google.com/scholar?cites=4896750897181677879>`_]
 
@@ -357,6 +429,10 @@ This document maintains a list of papers related to the research topic of QoS-Aw
 .. [#] [C] "**A Clustering-Based QoS Prediction Approach for Web Service Recommendation**," Jieming Zhu, Yu Kang, Zibin Zheng, and Michael R. Lyu, *in Proc. of IEEE International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing Workshops (ISORCW)*, 2012.
 
 .. [#] [C] "**Real-Time Performance Prediction for Cloud Components**," Yilei Zhang, Zibin Zheng, and Michael R. Lyu, *in Proc. of IEEE International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing Workshops (ISORCW)*, 2012.
+
+.. [#] [C] "A Monitoring Data Set for Evaluating QoS-aware Service-based Systems," Philipp Leitner, Waldemar Hummer, and Schahram Dustdar, *in Proc. of ICSE Workshop on Principles of Engineering Service Oriented Systems (PESOS)*, 2012.
+
+.. [#] [C] "Automatic QoS evaluation method for web services," Pinar Senkul, *in Proc. of IEEE Symposium on Computers and Communications (ISCC)*, 2012.
 
 .. [#] [C] "**A Service Ranking Method Based on Collaborative Filtering**," Xu Zhao, YongZhong Huang, and LiuYang An, *in Proc. of IEEE International Conference on Computer Science & Service System (CSSS)*, 2012.
 
