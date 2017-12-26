@@ -13,7 +13,7 @@ from utilities import *
 # Function to load the dataset
 #
 def load(para):
-	datafile = para['dataPath'] + para['dataType'] + 'Matrix.txt'
+	datafile = para['dataPath'] + para['dataType'] + '5-aldata.txt'
 	logger.info('Load data: %s'%datafile)
 	dataMatrix = np.loadtxt(datafile) 
 	dataMatrix = preprocess(dataMatrix, para)

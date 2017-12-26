@@ -13,7 +13,7 @@ from utilities import *
 # Function to load the dataset
 #
 def load(para):
-	datafile = para['dataPath'] + para['dataType'] + 'data.txt'
+	datafile = para['dataPath'] + para['dataType'] + '5-aldata.txt'
 	logger.info('Loading data: %s'%datafile)
 	dataTensor = -1 * np.ones((142, 4500, 64))
 	with open(datafile) as lines:

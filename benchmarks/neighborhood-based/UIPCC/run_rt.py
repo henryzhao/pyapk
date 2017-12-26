@@ -26,7 +26,7 @@ import dataloader
 # config area
 #
 para = {'dataType': 'rt', # set the dataType as 'rt' or 'tp'
-		'dataPath': '../data/dataset#1/',
+		'dataPath': '../../data/dataset#1/',
 		'outPath': 'result/',
 		'metrics': ['MAE', 'NMAE', 'RMSE', 'MRE', 'NPRE', 
 			('NDCG', [1, 5, 10, 20, 50, 100])], # delete where appropriate	

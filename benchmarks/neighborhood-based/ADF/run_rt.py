@@ -26,7 +26,7 @@ import dataloader
 # config area
 #
 para = {'dataType': 'rt', # set 'rt' for response-time prediction
-		'dataPath': '../data/dataset#1/',
+		'dataPath': '../../data/dataset#1/',
 		'outPath': 'result/',
 		'metrics': ['MAE', 'NMAE', 'RMSE', 'MRE', 'NPRE'], # delete where appropriate	
 		'density': list(np.arange(0.05, 0.31, 0.05)), # matrix density 
